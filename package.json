@@ -1,0 +1,28 @@
+{
+  "name": "shuoshuo",
+  "version": "1.0.0",
+  "description": "一个班级在局域网交流的平台\r ### 启动  \r node app\r ### 打开\r http://localhost:3000/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "formidable": "^1.0.17",
+    "gm": "^1.20.0",
+    "mongodb": "^2.0.43"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FANZHETWO/classTalk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FANZHETWO/classTalk/issues"
+  },
+  "homepage": "https://github.com/FANZHETWO/classTalk#readme"
+}
